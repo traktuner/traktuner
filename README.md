@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me: traktuner@pm.me
 <div align="center" markdown="1">
 
-↙️⬅️ [![My GPG public key]](https://img.shields.io/badge/GPG%20public%20key-6D4AFF?style=for-the-badge)](https://github.com/traktuner.gpg ➡️↘️
+↙️⬅️ [![My GPG public key]](https://img.shields.io/badge/GPG%20public%20key-6D4AFF?style=for-the-badge)](https://github.com/traktuner.gpg) ➡️↘️
 
 ```shell
 $ curl https://github.com/davorpa.gpg | gpg --import
