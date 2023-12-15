@@ -34,7 +34,5 @@ $ curl https://github.com/davorpa.gpg | gpg --import
 5. 🎉 Merged PR [#2](https://github.com/traktuner/traktuner/pull/2) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
 <!--END_SECTION:activity-->
 
-<div align="center" markdown="1">
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
 ![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
-</div>
