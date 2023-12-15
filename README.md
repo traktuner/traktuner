@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Feel free to reach out by GPG encrypted mail
+## Contact
+📫 Feel free to reach out by GPG encrypted email:
 traktuner@pm.me
 
 <div align="center" markdown="1">
@@ -30,6 +31,7 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 </div>
 
+## GitHub Stats
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/traktuner/traktuner/pull/5) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
 2. 🎉 Merged PR [#6](https://github.com/traktuner/traktuner/pull/6) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
