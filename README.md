@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#274](https://github.com/traktuner/status/issues/274) in [traktuner/status](https://github.com/traktuner/status)
-2. 🎉 Merged PR [#2](https://github.com/traktuner/backblaze-b2-action/pull/2) in [traktuner/backblaze-b2-action](https://github.com/traktuner/backblaze-b2-action)
-3. 🔒 Closed issue [#273](https://github.com/traktuner/status/issues/273) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#273](https://github.com/traktuner/status/issues/273#issuecomment-1857687827) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#273](https://github.com/traktuner/status/issues/273) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#274](https://github.com/traktuner/status/issues/274#issuecomment-1858551761) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#274](https://github.com/traktuner/status/issues/274) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#274](https://github.com/traktuner/status/issues/274) in [traktuner/status](https://github.com/traktuner/status)
+4. 🎉 Merged PR [#2](https://github.com/traktuner/backblaze-b2-action/pull/2) in [traktuner/backblaze-b2-action](https://github.com/traktuner/backblaze-b2-action)
+5. 🔒 Closed issue [#273](https://github.com/traktuner/status/issues/273) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
