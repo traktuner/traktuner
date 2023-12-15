@@ -1,6 +1,6 @@
 ### Oh, hi 👋
 
-I'm Thomas, IT System Engineer 
+I'm Thomas, IT System Engineer and dad 👶♊️👶 from Austria 🇦🇹
 
 <!--
 **traktuner/traktuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: traktuner@pm.me
+📫 Feel free to reach out by GPG encrypted mail
+traktuner@pm.me
+
 <div align="center" markdown="1">
 
 ↙️⬅️ [![My GPG public key](https://img.shields.io/badge/GPG%20public%20key-6D4AFF?style=for-the-badge)](https://github.com/traktuner.gpg) ➡️↘️
