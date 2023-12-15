@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📫 How to reach me: traktuner@pm.me
+<div align="center" markdown="1">
+
+↙️⬅️ [![My GPG public key](https://img.shields.io/badge/GPG%20public%20key-6D4AFF?style=for-the-badge) ➡️↘️
+
+```shell
+$ curl https://github.com/davorpa.gpg | gpg --import
+```
+
+</div>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/traktuner/traktuner/pull/5) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
@@ -24,6 +34,7 @@ Here are some ideas to get you started:
 5. 🎉 Merged PR [#2](https://github.com/traktuner/traktuner/pull/2) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
 <!--END_SECTION:activity-->
 
-
+<div align="center" markdown="1">
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
 ![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
+</div>
