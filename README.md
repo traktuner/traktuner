@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 4. 💪 Opened PR [#88](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/88) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 5. 🗣 Commented on [#87](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/87#issuecomment-1855913972) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
+
+
+![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
+![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
