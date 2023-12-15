@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh, hi 👋
+
+I'm Thomas, IT System Engineer 
 
 <!--
 **traktuner/traktuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
