@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 5. 💪 Opened PR [#88](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/88) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
-
+<div style="text-align:center">
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
 ![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
+</div>
