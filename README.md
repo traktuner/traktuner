@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#256](https://github.com/imagegenius/docker-immich/issues/256) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
-2. 🗣 Commented on [#275](https://github.com/traktuner/status/issues/275#issuecomment-1859052665) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#275](https://github.com/traktuner/status/issues/275) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#275](https://github.com/traktuner/status/issues/275) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#5744](https://github.com/immich-app/immich/issues/5744#issuecomment-1858882974) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🔒 Closed issue [#276](https://github.com/traktuner/status/issues/276) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#276](https://github.com/traktuner/status/issues/276#issuecomment-1859060895) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#276](https://github.com/traktuner/status/issues/276) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#256](https://github.com/imagegenius/docker-immich/issues/256#issuecomment-1859058436) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
+5. ❗ Opened issue [#256](https://github.com/imagegenius/docker-immich/issues/256) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
