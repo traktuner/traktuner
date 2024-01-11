@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/traktuner/docker-pgupgrade-go/pull/8) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-2. 🎉 Merged PR [#1](https://github.com/traktuner/docker-proton-bridge/pull/1) in [traktuner/docker-proton-bridge](https://github.com/traktuner/docker-proton-bridge)
-3. 🎉 Merged PR [#6](https://github.com/traktuner/docker-pgupgrade-go/pull/6) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-4. 🔒 Closed issue [#280](https://github.com/traktuner/status/issues/280) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#280](https://github.com/traktuner/status/issues/280#issuecomment-1872465950) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#285](https://github.com/traktuner/status/issues/285) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#285](https://github.com/traktuner/status/issues/285#issuecomment-1886371150) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#285](https://github.com/traktuner/status/issues/285) in [traktuner/status](https://github.com/traktuner/status)
+4. 🎉 Merged PR [#8](https://github.com/traktuner/docker-pgupgrade-go/pull/8) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+5. 🎉 Merged PR [#1](https://github.com/traktuner/docker-proton-bridge/pull/1) in [traktuner/docker-proton-bridge](https://github.com/traktuner/docker-proton-bridge)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
