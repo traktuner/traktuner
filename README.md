@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/traktuner/actions/issues/11) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#10](https://github.com/traktuner/actions/issues/10) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#9](https://github.com/traktuner/actions/issues/9) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#8](https://github.com/traktuner/actions/issues/8) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🔒 Closed issue [#7](https://github.com/traktuner/actions/issues/7) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🎉 Merged PR [#3](https://github.com/traktuner/actions/pull/3) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🎉 Merged PR [#4](https://github.com/traktuner/actions/pull/4) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#15](https://github.com/traktuner/actions/issues/15) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#14](https://github.com/traktuner/actions/issues/14) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#13](https://github.com/traktuner/actions/issues/13) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
