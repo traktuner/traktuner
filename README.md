@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/traktuner/actions/pull/3) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🎉 Merged PR [#4](https://github.com/traktuner/actions/pull/4) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#15](https://github.com/traktuner/actions/issues/15) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#14](https://github.com/traktuner/actions/issues/14) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🔒 Closed issue [#13](https://github.com/traktuner/actions/issues/13) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🗣 Commented on [#4](https://github.com/ProtonMail/inbox-desktop/issues/4#issuecomment-1888649627) in [ProtonMail/inbox-desktop](https://github.com/ProtonMail/inbox-desktop)
+2. ❗ Opened issue [#4](https://github.com/ProtonMail/inbox-desktop/issues/4) in [ProtonMail/inbox-desktop](https://github.com/ProtonMail/inbox-desktop)
+3. 🎉 Merged PR [#3](https://github.com/traktuner/actions/pull/3) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🎉 Merged PR [#4](https://github.com/traktuner/actions/pull/4) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#15](https://github.com/traktuner/actions/issues/15) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
