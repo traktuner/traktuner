@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#301](https://github.com/traktuner/status/issues/301) in [traktuner/status](https://github.com/traktuner/status)
-2. 🗣 Commented on [#301](https://github.com/traktuner/status/issues/301#issuecomment-1890869752) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#300](https://github.com/traktuner/status/issues/300) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#300](https://github.com/traktuner/status/issues/300#issuecomment-1890869740) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#299](https://github.com/traktuner/status/issues/299) in [traktuner/status](https://github.com/traktuner/status)
+1. 🚀 Published release [1.0.3](https://github.com/traktuner/barcelona/releases/tag/1.0.3) in [traktuner/barcelona](https://github.com/traktuner/barcelona)
+2. 🔒 Closed issue [#301](https://github.com/traktuner/status/issues/301) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#301](https://github.com/traktuner/status/issues/301#issuecomment-1890869752) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#300](https://github.com/traktuner/status/issues/300) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#300](https://github.com/traktuner/status/issues/300#issuecomment-1890869740) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
