@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/traktuner/traktuner/pull/8) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
-2. 🔒 Closed issue [#16](https://github.com/traktuner/actions/issues/16) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🗣 Commented on [#5](https://github.com/ProtonMail/inbox-desktop/issues/5#issuecomment-1893486436) in [ProtonMail/inbox-desktop](https://github.com/ProtonMail/inbox-desktop)
-4. ❗ Opened issue [#5](https://github.com/ProtonMail/inbox-desktop/issues/5) in [ProtonMail/inbox-desktop](https://github.com/ProtonMail/inbox-desktop)
-5. 🚀 Published release [1.0.3](https://github.com/traktuner/barcelona/releases/tag/1.0.3) in [traktuner/barcelona](https://github.com/traktuner/barcelona)
+1. 🔒 Closed issue [#309](https://github.com/traktuner/status/issues/309) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#309](https://github.com/traktuner/status/issues/309#issuecomment-1898674502) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#308](https://github.com/traktuner/status/issues/308) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#308](https://github.com/traktuner/status/issues/308#issuecomment-1898674366) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#307](https://github.com/traktuner/status/issues/307#issuecomment-1898674213) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
