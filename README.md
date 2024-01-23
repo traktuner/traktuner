@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-2. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-3. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-4. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-5. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. 🗣 Commented on [#310](https://github.com/traktuner/status/issues/310#issuecomment-1906511081) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#310](https://github.com/traktuner/status/issues/310) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#99](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/99) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. ❌ Closed PR [#100](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/100) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#100](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/100#issuecomment-1906493677) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
