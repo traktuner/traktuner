@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/traktuner/protonvpn-docker/pull/7) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-2. 🎉 Merged PR [#6](https://github.com/traktuner/protonvpn-docker/pull/6) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-3. 🎉 Merged PR [#5](https://github.com/traktuner/protonvpn-docker/pull/5) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-4. 🎉 Merged PR [#4](https://github.com/traktuner/protonvpn-docker/pull/4) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-5. 🎉 Merged PR [#3](https://github.com/traktuner/protonvpn-docker/pull/3) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+2. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+3. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+4. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+5. 🎉 Merged PR [#7](https://github.com/traktuner/protonvpn-docker/pull/7) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
