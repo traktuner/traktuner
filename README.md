@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-2. 🎉 Merged PR [#18](https://github.com/traktuner/protonvpn-docker/pull/18) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-3. 🎉 Merged PR [#15](https://github.com/traktuner/protonvpn-docker/pull/15) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-4. 🎉 Merged PR [#14](https://github.com/traktuner/protonvpn-docker/pull/14) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-5. 🎉 Merged PR [#13](https://github.com/traktuner/protonvpn-docker/pull/13) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. 🗣 Commented on [#5](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/5#issuecomment-1907476085) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🚀 Published release [5.2.2](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.2) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+3. 🎉 Merged PR [#18](https://github.com/traktuner/protonvpn-docker/pull/18) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+4. 🎉 Merged PR [#15](https://github.com/traktuner/protonvpn-docker/pull/15) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+5. 🎉 Merged PR [#14](https://github.com/traktuner/protonvpn-docker/pull/14) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
