@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/traktuner/protonvpn-docker/pull/21) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-2. 🎉 Merged PR [#10](https://github.com/traktuner/docker-pgupgrade-go/pull/10) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-3. 🔒 Closed issue [#18](https://github.com/traktuner/actions/issues/18) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🗣 Commented on [#110](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/110#issuecomment-1931353612) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#110](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/110#issuecomment-1931339710) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🎉 Merged PR [#110](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/110) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#21](https://github.com/traktuner/protonvpn-docker/pull/21) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+3. 🎉 Merged PR [#10](https://github.com/traktuner/docker-pgupgrade-go/pull/10) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+4. 🔒 Closed issue [#18](https://github.com/traktuner/actions/issues/18) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🗣 Commented on [#110](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/110#issuecomment-1931353612) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
