@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/112) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 💪 Opened PR [#112](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/112) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🎉 Merged PR [#110](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/110) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🎉 Merged PR [#21](https://github.com/traktuner/protonvpn-docker/pull/21) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-5. 🎉 Merged PR [#10](https://github.com/traktuner/docker-pgupgrade-go/pull/10) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+1. 🗣 Commented on [#58](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/58#issuecomment-1933363706) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🔒 Closed issue [#58](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/58) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#19](https://github.com/traktuner/actions/issues/19) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🗣 Commented on [#6](https://github.com/ProtonMail/inbox-desktop/issues/6#issuecomment-1933360064) in [ProtonMail/inbox-desktop](https://github.com/ProtonMail/inbox-desktop)
+5. 🎉 Merged PR [#112](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/112) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
