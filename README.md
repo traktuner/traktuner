@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/127#issuecomment-1958690992) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-1956552798) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-1956210374) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🗣 Commented on [#78](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/78#issuecomment-1956175008) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#77](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/77#issuecomment-1956142017) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#127](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/127#issuecomment-1959407652) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#127](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/127#issuecomment-1959381782) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#127](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/127#issuecomment-1958690992) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-1956552798) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#43](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/43#issuecomment-1956210374) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
