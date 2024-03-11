@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#319](https://github.com/traktuner/status/issues/319) in [traktuner/status](https://github.com/traktuner/status)
-2. 🗣 Commented on [#319](https://github.com/traktuner/status/issues/319#issuecomment-1976513077) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#319](https://github.com/traktuner/status/issues/319) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#26](https://github.com/traktuner/protonvpn-docker/pull/26) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-5. 🎉 Merged PR [#25](https://github.com/traktuner/protonvpn-docker/pull/25) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. 🗣 Commented on [#320](https://github.com/traktuner/status/issues/320#issuecomment-1987716028) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#320](https://github.com/traktuner/status/issues/320) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#320](https://github.com/traktuner/status/issues/320) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#319](https://github.com/traktuner/status/issues/319) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#319](https://github.com/traktuner/status/issues/319#issuecomment-1976513077) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
