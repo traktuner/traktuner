@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988276319) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❗ Opened issue [#7843](https://github.com/immich-app/immich/issues/7843) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🗣 Commented on [#320](https://github.com/traktuner/status/issues/320#issuecomment-1987716028) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#320](https://github.com/traktuner/status/issues/320) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#320](https://github.com/traktuner/status/issues/320) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988303479) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988276319) in [immich-app/immich](https://github.com/immich-app/immich)
+3. ❗ Opened issue [#7843](https://github.com/immich-app/immich/issues/7843) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#320](https://github.com/traktuner/status/issues/320#issuecomment-1987716028) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#320](https://github.com/traktuner/status/issues/320) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
