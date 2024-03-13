@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.2](https://github.com/traktuner/docker-pgupgrade-go/releases/tag/0.1.2) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-2. 🎉 Merged PR [#27](https://github.com/traktuner/protonvpn-docker/pull/27) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-3. 🎉 Merged PR [#11](https://github.com/traktuner/docker-pgupgrade-go/pull/11) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-4. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988931436) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988437666) in [immich-app/immich](https://github.com/immich-app/immich)
+1. ❗ Opened issue [#7921](https://github.com/immich-app/immich/issues/7921) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🚀 Published release [0.1.2](https://github.com/traktuner/docker-pgupgrade-go/releases/tag/0.1.2) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+3. 🎉 Merged PR [#27](https://github.com/traktuner/protonvpn-docker/pull/27) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+4. 🎉 Merged PR [#11](https://github.com/traktuner/docker-pgupgrade-go/pull/11) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+5. 🗣 Commented on [#7843](https://github.com/immich-app/immich/issues/7843#issuecomment-1988931436) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
