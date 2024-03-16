@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.8](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.8) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🎉 Merged PR [#129](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/129) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🔒 Closed issue [#24](https://github.com/traktuner/actions/issues/24) in [traktuner/actions](https://github.com/traktuner/actions)
-4. ❗ Opened issue [#7921](https://github.com/immich-app/immich/issues/7921) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🚀 Published release [0.1.2](https://github.com/traktuner/docker-pgupgrade-go/releases/tag/0.1.2) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+1. 🗣 Commented on [#138](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/138#issuecomment-2001896584) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🚀 Published release [v1.8](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.8) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🎉 Merged PR [#129](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/129) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🔒 Closed issue [#24](https://github.com/traktuner/actions/issues/24) in [traktuner/actions](https://github.com/traktuner/actions)
+5. ❗ Opened issue [#7921](https://github.com/immich-app/immich/issues/7921) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
