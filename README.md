@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/traktuner/docker-wireguard/pull/1) in [traktuner/docker-wireguard](https://github.com/traktuner/docker-wireguard)
-2. 💪 Opened PR [#139](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/139) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🚀 Published release [5.2.4](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.4) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
-4. 🗣 Commented on [#365](https://github.com/Rafficer/linux-cli-community/issues/365#issuecomment-2003197437) in [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community)
-5. 🚀 Published release [5.2.4](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.4) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. 🗣 Commented on [#140](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/140#issuecomment-2017664377) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#1](https://github.com/traktuner/docker-wireguard/pull/1) in [traktuner/docker-wireguard](https://github.com/traktuner/docker-wireguard)
+3. 💪 Opened PR [#139](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/139) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🚀 Published release [5.2.4](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.4) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+5. 🗣 Commented on [#365](https://github.com/Rafficer/linux-cli-community/issues/365#issuecomment-2003197437) in [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
