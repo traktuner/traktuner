@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/140#issuecomment-2017696356) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#140](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/140#issuecomment-2017664377) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🎉 Merged PR [#1](https://github.com/traktuner/docker-wireguard/pull/1) in [traktuner/docker-wireguard](https://github.com/traktuner/docker-wireguard)
-4. 💪 Opened PR [#139](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/139) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🚀 Published release [5.2.4](https://github.com/traktuner/protonvpn-docker/releases/tag/5.2.4) in [traktuner/protonvpn-docker](https://github.com/traktuner/protonvpn-docker)
+1. ❗ Opened issue [#327](https://github.com/traktuner/status/issues/327) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#326](https://github.com/traktuner/status/issues/326) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#325](https://github.com/traktuner/status/issues/325) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#324](https://github.com/traktuner/status/issues/324) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#323](https://github.com/traktuner/status/issues/323) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
