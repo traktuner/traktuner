@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/138#issuecomment-2021929706) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#138](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/138) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#321](https://github.com/traktuner/status/issues/321#issuecomment-2021326190) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#321](https://github.com/traktuner/status/issues/321) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#328](https://github.com/traktuner/status/issues/328#issuecomment-2021315298) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#25](https://github.com/traktuner/actions/issues/25) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🗣 Commented on [#138](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/138#issuecomment-2021929706) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#138](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/138) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#321](https://github.com/traktuner/status/issues/321#issuecomment-2021326190) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#321](https://github.com/traktuner/status/issues/321) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
