@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/141#issuecomment-2039092779) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#142](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/142#issuecomment-2039086138) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🔒 Closed issue [#23](https://github.com/traktuner/actions/issues/23) in [traktuner/actions](https://github.com/traktuner/actions)
-4. ❗ Opened issue [#349](https://github.com/cryptomator/ios/issues/349) in [cryptomator/ios](https://github.com/cryptomator/ios)
-5. 🔒 Closed issue [#26](https://github.com/traktuner/actions/issues/26) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🗣 Commented on [#140](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/140#issuecomment-2039098041) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#141](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/141#issuecomment-2039092779) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🗣 Commented on [#142](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/142#issuecomment-2039086138) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🔒 Closed issue [#23](https://github.com/traktuner/actions/issues/23) in [traktuner/actions](https://github.com/traktuner/actions)
+5. ❗ Opened issue [#349](https://github.com/cryptomator/ios/issues/349) in [cryptomator/ios](https://github.com/cryptomator/ios)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
