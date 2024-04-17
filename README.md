@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/144#issuecomment-2060359545) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#144](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/144#issuecomment-2060269781) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#144](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/144#issuecomment-2059205788) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🚀 Published release [v1.9](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.9) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🔒 Closed issue [#144](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/144) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#339](https://github.com/traktuner/status/issues/339#issuecomment-2061021497) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#339](https://github.com/traktuner/status/issues/339) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#338](https://github.com/traktuner/status/issues/338#issuecomment-2061021394) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#338](https://github.com/traktuner/status/issues/338) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#339](https://github.com/traktuner/status/issues/339) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
