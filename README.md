@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#342](https://github.com/traktuner/status/issues/342) in [traktuner/status](https://github.com/traktuner/status)
-2. 🗣 Commented on [#342](https://github.com/traktuner/status/issues/342#issuecomment-2063023320) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#341](https://github.com/traktuner/status/issues/341#issuecomment-2063023230) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#341](https://github.com/traktuner/status/issues/341) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#340](https://github.com/traktuner/status/issues/340#issuecomment-2063023169) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#78](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/78) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🔒 Closed issue [#342](https://github.com/traktuner/status/issues/342) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#342](https://github.com/traktuner/status/issues/342#issuecomment-2063023320) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#341](https://github.com/traktuner/status/issues/341#issuecomment-2063023230) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#341](https://github.com/traktuner/status/issues/341) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
