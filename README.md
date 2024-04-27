@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#343](https://github.com/traktuner/status/issues/343#issuecomment-2080442984) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#343](https://github.com/traktuner/status/issues/343) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#343](https://github.com/traktuner/status/issues/343) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#116](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/116#issuecomment-2080362895) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#210](https://github.com/peacey/split-vpn/issues/210#issuecomment-2079766343) in [peacey/split-vpn](https://github.com/peacey/split-vpn)
+1. 💪 Opened PR [#9120](https://github.com/immich-app/immich/pull/9120) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#343](https://github.com/traktuner/status/issues/343#issuecomment-2080442984) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#343](https://github.com/traktuner/status/issues/343) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#343](https://github.com/traktuner/status/issues/343) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#116](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/116#issuecomment-2080362895) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
