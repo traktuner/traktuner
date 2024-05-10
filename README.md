@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/154#issuecomment-2103923399) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🔒 Closed issue [#154](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/154) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🔒 Closed issue [#29](https://github.com/traktuner/actions/issues/29) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#28](https://github.com/traktuner/actions/issues/28) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🗣 Commented on [#3565](https://github.com/standardnotes/forum/issues/3565#issuecomment-2092584098) in [standardnotes/forum](https://github.com/standardnotes/forum)
+1. 🔒 Closed issue [#30](https://github.com/traktuner/actions/issues/30) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🗣 Commented on [#154](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/154#issuecomment-2103923399) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 🔒 Closed issue [#154](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/154) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🔒 Closed issue [#29](https://github.com/traktuner/actions/issues/29) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#28](https://github.com/traktuner/actions/issues/28) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
