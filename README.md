@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/traktuner/mediathekview-docker/pull/1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-2. 🗣 Commented on [#157](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/157#issuecomment-2119321196) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🔒 Closed issue [#355](https://github.com/traktuner/status/issues/355) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#355](https://github.com/traktuner/status/issues/355#issuecomment-2114367223) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#354](https://github.com/traktuner/status/issues/354) in [traktuner/status](https://github.com/traktuner/status)
+1. 🚀 Published release [initial release](https://github.com/traktuner/mediathekview-docker/releases/tag/v0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+2. 🚀 Published release [initial release](https://github.com/traktuner/mediathekview-docker/releases/tag/v0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+3. 🚀 Published release [v0.1](https://github.com/traktuner/mediathekview-docker/releases/tag/0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+4. 🎉 Merged PR [#3](https://github.com/traktuner/mediathekview-docker/pull/3) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🎉 Merged PR [#2](https://github.com/traktuner/mediathekview-docker/pull/2) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
