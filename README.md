@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/traktuner/mediathekview-docker/pull/3) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-2. 🎉 Merged PR [#4](https://github.com/traktuner/mediathekview-docker/pull/4) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-3. 🎉 Merged PR [#1](https://github.com/traktuner/mediathekview-docker/pull/1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-4. 🚀 Published release [initial release](https://github.com/traktuner/mediathekview-docker/releases/tag/v0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-5. 🚀 Published release [initial release](https://github.com/traktuner/mediathekview-docker/releases/tag/v0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+1. 🎉 Merged PR [#5](https://github.com/traktuner/mediathekview-docker/pull/5) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+2. 🎉 Merged PR [#6](https://github.com/traktuner/mediathekview-docker/pull/6) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+3. 🎉 Merged PR [#3](https://github.com/traktuner/mediathekview-docker/pull/3) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+4. 🎉 Merged PR [#4](https://github.com/traktuner/mediathekview-docker/pull/4) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🎉 Merged PR [#1](https://github.com/traktuner/mediathekview-docker/pull/1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
