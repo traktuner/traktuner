@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/traktuner/mediathekview-docker/pull/7) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-2. 🎉 Merged PR [#8](https://github.com/traktuner/mediathekview-docker/pull/8) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-3. 🎉 Merged PR [#5](https://github.com/traktuner/mediathekview-docker/pull/5) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-4. 🎉 Merged PR [#6](https://github.com/traktuner/mediathekview-docker/pull/6) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-5. 🎉 Merged PR [#3](https://github.com/traktuner/mediathekview-docker/pull/3) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+1. ❗ Opened issue [#358](https://github.com/traktuner/status/issues/358) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#357](https://github.com/traktuner/status/issues/357) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#356](https://github.com/traktuner/status/issues/356) in [traktuner/status](https://github.com/traktuner/status)
+4. 🎉 Merged PR [#7](https://github.com/traktuner/mediathekview-docker/pull/7) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🎉 Merged PR [#8](https://github.com/traktuner/mediathekview-docker/pull/8) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
