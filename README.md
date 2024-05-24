@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Nathan1258/Menubar-Weather/issues/4#issuecomment-2128953662) in [Nathan1258/Menubar-Weather](https://github.com/Nathan1258/Menubar-Weather)
-2. ❗ Opened issue [#4](https://github.com/Nathan1258/Menubar-Weather/issues/4) in [Nathan1258/Menubar-Weather](https://github.com/Nathan1258/Menubar-Weather)
-3. 🗣 Commented on [#359](https://github.com/traktuner/status/issues/359#issuecomment-2126307410) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#359](https://github.com/traktuner/status/issues/359) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#361](https://github.com/traktuner/status/issues/361#issuecomment-2126307337) in [traktuner/status](https://github.com/traktuner/status)
+1. 🚀 Published release [v1.0](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+2. 🗣 Commented on [#4](https://github.com/Nathan1258/Menubar-Weather/issues/4#issuecomment-2128953662) in [Nathan1258/Menubar-Weather](https://github.com/Nathan1258/Menubar-Weather)
+3. ❗ Opened issue [#4](https://github.com/Nathan1258/Menubar-Weather/issues/4) in [Nathan1258/Menubar-Weather](https://github.com/Nathan1258/Menubar-Weather)
+4. 🗣 Commented on [#359](https://github.com/traktuner/status/issues/359#issuecomment-2126307410) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#359](https://github.com/traktuner/status/issues/359) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
