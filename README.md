@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/peacey/split-vpn/issues/211#issuecomment-2151391939) in [peacey/split-vpn](https://github.com/peacey/split-vpn)
-2. 🔒 Closed issue [#162](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/162) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#162](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/162#issuecomment-2147640658) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🗣 Commented on [#162](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/162#issuecomment-2147600224) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#162](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/162#issuecomment-2147354468) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🔒 Closed issue [#34](https://github.com/traktuner/actions/issues/34) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#33](https://github.com/traktuner/actions/issues/33) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#32](https://github.com/traktuner/actions/issues/32) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🗣 Commented on [#211](https://github.com/peacey/split-vpn/issues/211#issuecomment-2151391939) in [peacey/split-vpn](https://github.com/peacey/split-vpn)
+5. 🔒 Closed issue [#162](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/162) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
