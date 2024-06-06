@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38](https://github.com/traktuner/actions/issues/38) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#39](https://github.com/traktuner/actions/issues/39) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#40](https://github.com/traktuner/actions/issues/40) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#35](https://github.com/traktuner/actions/issues/35) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🔒 Closed issue [#36](https://github.com/traktuner/actions/issues/36) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 💪 Opened PR [#165](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/165) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🔒 Closed issue [#38](https://github.com/traktuner/actions/issues/38) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#39](https://github.com/traktuner/actions/issues/39) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#40](https://github.com/traktuner/actions/issues/40) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#35](https://github.com/traktuner/actions/issues/35) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
