@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175981](https://github.com/Homebrew/homebrew-cask/pull/175981#issuecomment-2154353745) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#176021](https://github.com/Homebrew/homebrew-cask/pull/176021#issuecomment-2154349113) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 💪 Opened PR [#176021](https://github.com/Homebrew/homebrew-cask/pull/176021) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🗣 Commented on [#145](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/145#issuecomment-2153904900) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#164](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/164#issuecomment-2153896823) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🎉 Merged PR [#9](https://github.com/traktuner/mediathekview-docker/pull/9) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+2. 🗣 Commented on [#175981](https://github.com/Homebrew/homebrew-cask/pull/175981#issuecomment-2154353745) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 🗣 Commented on [#176021](https://github.com/Homebrew/homebrew-cask/pull/176021#issuecomment-2154349113) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 💪 Opened PR [#176021](https://github.com/Homebrew/homebrew-cask/pull/176021) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 🗣 Commented on [#145](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/145#issuecomment-2153904900) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
