@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#373](https://github.com/traktuner/status/issues/373#issuecomment-2156650677) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#373](https://github.com/traktuner/status/issues/373) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#373](https://github.com/traktuner/status/issues/373) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#8](https://github.com/traktuner/backblaze-personal-wine-container/pull/8) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
-5. 🎉 Merged PR [#9](https://github.com/traktuner/backblaze-personal-wine-container/pull/9) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+1. 🚀 Published release [v.1.6](https://github.com/traktuner/backblaze-personal-wine-container/releases/tag/v1.6) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+2. 🗣 Commented on [#373](https://github.com/traktuner/status/issues/373#issuecomment-2156650677) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#373](https://github.com/traktuner/status/issues/373) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#373](https://github.com/traktuner/status/issues/373) in [traktuner/status](https://github.com/traktuner/status)
+5. 🎉 Merged PR [#8](https://github.com/traktuner/backblaze-personal-wine-container/pull/8) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
