@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/traktuner/backblaze-personal-wine-container/pull/12) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
-2. 🗣 Commented on [#211](https://github.com/peacey/split-vpn/issues/211#issuecomment-2159722530) in [peacey/split-vpn](https://github.com/peacey/split-vpn)
-3. 🔒 Closed issue [#374](https://github.com/traktuner/status/issues/374) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#374](https://github.com/traktuner/status/issues/374#issuecomment-2156719747) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#374](https://github.com/traktuner/status/issues/374) in [traktuner/status](https://github.com/traktuner/status)
+1. 💪 Opened PR [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#12](https://github.com/traktuner/backblaze-personal-wine-container/pull/12) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+3. 🗣 Commented on [#211](https://github.com/peacey/split-vpn/issues/211#issuecomment-2159722530) in [peacey/split-vpn](https://github.com/peacey/split-vpn)
+4. 🔒 Closed issue [#374](https://github.com/traktuner/status/issues/374) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#374](https://github.com/traktuner/status/issues/374#issuecomment-2156719747) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
