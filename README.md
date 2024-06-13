@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/166#issuecomment-2162129917) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#368](https://github.com/imagegenius/docker-immich/issues/368#issuecomment-2160761318) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
-3. 🔒 Closed issue [#368](https://github.com/imagegenius/docker-immich/issues/368) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
-4. ❗ Opened issue [#368](https://github.com/imagegenius/docker-immich/issues/368) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
-5. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2160130998) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#375](https://github.com/traktuner/status/issues/375#issuecomment-2164316185) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#375](https://github.com/traktuner/status/issues/375) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#375](https://github.com/traktuner/status/issues/375) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#166](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/166#issuecomment-2162129917) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#368](https://github.com/imagegenius/docker-immich/issues/368#issuecomment-2160761318) in [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich)
 <!--END_SECTION:activity-->
 
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
