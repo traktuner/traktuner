@@ -40,5 +40,7 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 5. 🗣 Commented on [#170](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/170#issuecomment-2165357590) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
+<!--
 ![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
 ![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
+-->
