@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/traktuner/protonmail-bridge-docker/pull/3) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
-2. 🎉 Merged PR [#1](https://github.com/traktuner/protonmail-bridge-docker/pull/1) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
-3. 🔒 Closed issue [#42](https://github.com/traktuner/actions/issues/42) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#41](https://github.com/traktuner/actions/issues/41) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🗣 Commented on [#170](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/170#issuecomment-2165357590) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🎉 Merged PR [#167](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/167) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#3](https://github.com/traktuner/protonmail-bridge-docker/pull/3) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
+3. 🎉 Merged PR [#1](https://github.com/traktuner/protonmail-bridge-docker/pull/1) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
+4. 🔒 Closed issue [#42](https://github.com/traktuner/actions/issues/42) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#41](https://github.com/traktuner/actions/issues/41) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 <!--
