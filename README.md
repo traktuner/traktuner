@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.10](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.10) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🎉 Merged PR [#167](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/167) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🎉 Merged PR [#3](https://github.com/traktuner/protonmail-bridge-docker/pull/3) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
-4. 🎉 Merged PR [#1](https://github.com/traktuner/protonmail-bridge-docker/pull/1) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
-5. 🔒 Closed issue [#42](https://github.com/traktuner/actions/issues/42) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🎉 Merged PR [#13](https://github.com/traktuner/backblaze-personal-wine-container/pull/13) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#10](https://github.com/traktuner/mediathekview-docker/pull/10) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+3. 🚀 Published release [v1.10](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.10) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🎉 Merged PR [#167](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/167) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🎉 Merged PR [#3](https://github.com/traktuner/protonmail-bridge-docker/pull/3) in [traktuner/protonmail-bridge-docker](https://github.com/traktuner/protonmail-bridge-docker)
 <!--END_SECTION:activity-->
 
 <!--
