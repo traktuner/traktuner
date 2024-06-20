@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#376](https://github.com/traktuner/status/issues/376#issuecomment-2180522646) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#376](https://github.com/traktuner/status/issues/376) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#376](https://github.com/traktuner/status/issues/376) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#10499](https://github.com/immich-app/immich/issues/10499) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#8146](https://github.com/immich-app/immich/issues/8146#issuecomment-2175626294) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🔒 Closed issue [#377](https://github.com/traktuner/status/issues/377) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#377](https://github.com/traktuner/status/issues/377#issuecomment-2181368271) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#377](https://github.com/traktuner/status/issues/377) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#376](https://github.com/traktuner/status/issues/376#issuecomment-2180522646) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#376](https://github.com/traktuner/status/issues/376) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <!--
