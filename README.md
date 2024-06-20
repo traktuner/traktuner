@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10499](https://github.com/immich-app/immich/issues/10499) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#8146](https://github.com/immich-app/immich/issues/8146#issuecomment-2175626294) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🎉 Merged PR [#13](https://github.com/traktuner/backblaze-personal-wine-container/pull/13) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
-4. 🎉 Merged PR [#10](https://github.com/traktuner/mediathekview-docker/pull/10) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-5. 🚀 Published release [v1.10](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.10) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. ❗ Opened issue [#376](https://github.com/traktuner/status/issues/376) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#10499](https://github.com/immich-app/immich/issues/10499) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#8146](https://github.com/immich-app/immich/issues/8146#issuecomment-2175626294) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🎉 Merged PR [#13](https://github.com/traktuner/backblaze-personal-wine-container/pull/13) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+5. 🎉 Merged PR [#10](https://github.com/traktuner/mediathekview-docker/pull/10) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 <!--
