@@ -40,7 +40,7 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 5. ❗ Opened issue [#379](https://github.com/traktuner/status/issues/379) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
-<!--
-![](https://github.com/traktuner/traktuner/blob/master/generated/overview.svg)
-![](https://github.com/traktuner/traktuner/blob/master/generated/languages.svg)
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=traktuner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traktuner&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
