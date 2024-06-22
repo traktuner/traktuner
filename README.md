@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/173#issuecomment-2183966616) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#388](https://github.com/traktuner/status/issues/388#issuecomment-2183899972) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#388](https://github.com/traktuner/status/issues/388) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#387](https://github.com/traktuner/status/issues/387) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#387](https://github.com/traktuner/status/issues/387#issuecomment-2183899944) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#174](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/174#issuecomment-2184124305) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+2. 🗣 Commented on [#173](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/173#issuecomment-2184124147) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+3. 💪 Opened PR [#174](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/174) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#173](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/173#issuecomment-2183966616) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#388](https://github.com/traktuner/status/issues/388#issuecomment-2183899972) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
