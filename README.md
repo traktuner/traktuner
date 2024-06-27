@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43](https://github.com/traktuner/actions/issues/43) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🚀 Published release [v1.11](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.11) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🔒 Closed issue [#173](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/173) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🎉 Merged PR [#174](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/174) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🗣 Commented on [#174](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/174#issuecomment-2184531822) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+1. 🗣 Commented on [#389](https://github.com/traktuner/status/issues/389#issuecomment-2192657434) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#389](https://github.com/traktuner/status/issues/389) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#389](https://github.com/traktuner/status/issues/389) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#43](https://github.com/traktuner/actions/issues/43) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🚀 Published release [v1.11](https://github.com/JonathanTreffler/backblaze-personal-wine-container/releases/tag/v1.11) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 <div align="center">
