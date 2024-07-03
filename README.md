@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/traktuner/actions/issues/45) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#177](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/177) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 🗣 Commented on [#177](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/177#issuecomment-2201962954) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🔒 Closed issue [#44](https://github.com/traktuner/actions/issues/44) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🎉 Merged PR [#14](https://github.com/traktuner/backblaze-personal-wine-container/pull/14) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+1. 🔒 Closed issue [#46](https://github.com/traktuner/actions/issues/46) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#45](https://github.com/traktuner/actions/issues/45) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#177](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/177) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+4. 🗣 Commented on [#177](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/177#issuecomment-2201962954) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🔒 Closed issue [#44](https://github.com/traktuner/actions/issues/44) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 <div align="center">
