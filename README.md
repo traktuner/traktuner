@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/traktuner/docker-crashplan-pro/pull/3) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-2. 🎉 Merged PR [#2](https://github.com/traktuner/docker-crashplan-pro/pull/2) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-3. 🎉 Merged PR [#1](https://github.com/traktuner/docker-crashplan-pro/pull/1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-4. 🚀 Published release [v25.01.0](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v25.01.0) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-5. 🚀 Published release [v25.0.0](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v25.0.0) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+1. 🔒 Closed issue [#47](https://github.com/traktuner/actions/issues/47) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🎉 Merged PR [#3](https://github.com/traktuner/docker-crashplan-pro/pull/3) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+3. 🎉 Merged PR [#2](https://github.com/traktuner/docker-crashplan-pro/pull/2) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+4. 🎉 Merged PR [#1](https://github.com/traktuner/docker-crashplan-pro/pull/1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+5. 🚀 Published release [v25.01.0](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v25.01.0) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
 <!--END_SECTION:activity-->
 
 <div align="center">
