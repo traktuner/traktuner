@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/179#issuecomment-2227755168) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-2. 🗣 Commented on [#180](https://github.com/JonathanTreffler/backblaze-personal-wine-container/issues/180#issuecomment-2227747829) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-3. 💪 Opened PR [#179492](https://github.com/Homebrew/homebrew-cask/pull/179492) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. ❗ Opened issue [#15](https://github.com/Nathan1258/Menubar-Weather/issues/15) in [Nathan1258/Menubar-Weather](https://github.com/Nathan1258/Menubar-Weather)
-5. 🚀 Published release [v25.02.0](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v25.02.0) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+1. 🗣 Commented on [#397](https://github.com/traktuner/status/issues/397#issuecomment-2234387003) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#397](https://github.com/traktuner/status/issues/397) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#396](https://github.com/traktuner/status/issues/396#issuecomment-2234386928) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#396](https://github.com/traktuner/status/issues/396) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#395](https://github.com/traktuner/status/issues/395#issuecomment-2234386880) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
