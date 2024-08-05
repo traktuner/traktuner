@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/traktuner/docker-protonmail-bridge/pull/5) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
-2. 🎉 Merged PR [#4](https://github.com/traktuner/docker-protonmail-bridge/pull/4) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
-3. 🎉 Merged PR [#3](https://github.com/traktuner/docker-protonmail-bridge/pull/3) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
-4. 🎉 Merged PR [#1](https://github.com/traktuner/docker-protonmail-bridge/pull/1) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
-5. 🎉 Merged PR [#1](https://github.com/traktuner/homebrew-traktuner/pull/1) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🎉 Merged PR [#6](https://github.com/traktuner/docker-protonmail-bridge/pull/6) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
+2. 🎉 Merged PR [#5](https://github.com/traktuner/docker-protonmail-bridge/pull/5) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
+3. 🎉 Merged PR [#4](https://github.com/traktuner/docker-protonmail-bridge/pull/4) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
+4. 🎉 Merged PR [#3](https://github.com/traktuner/docker-protonmail-bridge/pull/3) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
+5. 🎉 Merged PR [#1](https://github.com/traktuner/docker-protonmail-bridge/pull/1) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
 <!--END_SECTION:activity-->
 
 <div align="center">
