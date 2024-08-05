@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/traktuner/homebrew-traktuner/pull/1) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#1](https://github.com/traktuner/homebrew-traktuner/pull/1) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2254535294) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2254476114) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-5. 🎉 Merged PR [#23](https://github.com/traktuner/backblaze-personal-wine-container/pull/23) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+1. 🎉 Merged PR [#1](https://github.com/traktuner/docker-protonmail-bridge/pull/1) in [traktuner/docker-protonmail-bridge](https://github.com/traktuner/docker-protonmail-bridge)
+2. 🎉 Merged PR [#1](https://github.com/traktuner/homebrew-traktuner/pull/1) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+3. 💪 Opened PR [#1](https://github.com/traktuner/homebrew-traktuner/pull/1) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2254535294) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
+5. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2254476114) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 <div align="center">
