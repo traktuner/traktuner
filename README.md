@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/traktuner/homebrew-traktuner/pull/2) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#2](https://github.com/traktuner/homebrew-traktuner/pull/2) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🗣 Commented on [#168](https://github.com/JonathanTreffler/backblaze-personal-wine-container/pull/168#issuecomment-2309596434) in [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container)
-4. 🔒 Closed issue [#57](https://github.com/traktuner/actions/issues/57) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🗣 Commented on [#406](https://github.com/traktuner/status/issues/406#issuecomment-2303917625) in [traktuner/status](https://github.com/traktuner/status)
+1. ❗ Opened issue [#414](https://github.com/traktuner/status/issues/414) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#413](https://github.com/traktuner/status/issues/413) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#412](https://github.com/traktuner/status/issues/412) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#411](https://github.com/traktuner/status/issues/411) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#410](https://github.com/traktuner/status/issues/410) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
