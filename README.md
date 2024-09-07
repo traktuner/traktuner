@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#60](https://github.com/traktuner/actions/issues/60) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🗣 Commented on [#5567](https://github.com/FreeTubeApp/FreeTube/issues/5567#issuecomment-2331717455) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-3. 🗣 Commented on [#417](https://github.com/traktuner/status/issues/417#issuecomment-2323146823) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#417](https://github.com/traktuner/status/issues/417) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#417](https://github.com/traktuner/status/issues/417) in [traktuner/status](https://github.com/traktuner/status)
+1. ❗ Opened issue [#419](https://github.com/traktuner/status/issues/419) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#418](https://github.com/traktuner/status/issues/418) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#60](https://github.com/traktuner/actions/issues/60) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🗣 Commented on [#5567](https://github.com/FreeTubeApp/FreeTube/issues/5567#issuecomment-2331717455) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+5. 🗣 Commented on [#417](https://github.com/traktuner/status/issues/417#issuecomment-2323146823) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
