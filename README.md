@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 24.09.1](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v24.09.1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-2. 🚀 Published release [Version 24.09.1](https://github.com/traktuner/docker-crashplan-pro/releases/tag/24.09.1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-3. 🗣 Commented on [#422](https://github.com/traktuner/status/issues/422#issuecomment-2345161129) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#422](https://github.com/traktuner/status/issues/422) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#422](https://github.com/traktuner/status/issues/422) in [traktuner/status](https://github.com/traktuner/status)
+1. 💪 Opened PR [#3](https://github.com/traktuner/homebrew-traktuner/pull/3) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 🚀 Published release [Version 24.09.1](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v24.09.1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+3. 🚀 Published release [Version 24.09.1](https://github.com/traktuner/docker-crashplan-pro/releases/tag/24.09.1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+4. 🗣 Commented on [#422](https://github.com/traktuner/status/issues/422#issuecomment-2345161129) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#422](https://github.com/traktuner/status/issues/422) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
