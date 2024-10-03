@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/traktuner/backblaze-personal-wine-container/pull/24) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
-2. 🚀 Published release [Version 24.09.02](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v24.09.2) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-3. ❌ Closed PR [#2](https://github.com/traktuner/docker-crashplan-pro/pull/2) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-4. 🎉 Merged PR [#1](https://github.com/traktuner/docker-crashplan-pro/pull/1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-5. 🔒 Closed issue [#62](https://github.com/traktuner/actions/issues/62) in [traktuner/actions](https://github.com/traktuner/actions)
+1. ❗ Opened issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#440](https://github.com/traktuner/status/issues/440#issuecomment-2390510932) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
+5. 🎉 Merged PR [#24](https://github.com/traktuner/backblaze-personal-wine-container/pull/24) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
 <!--END_SECTION:activity-->
 
 <div align="center">
