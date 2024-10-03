@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#440](https://github.com/traktuner/status/issues/440#issuecomment-2390510932) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
-5. 🎉 Merged PR [#24](https://github.com/traktuner/backblaze-personal-wine-container/pull/24) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+1. 🗣 Commented on [#441](https://github.com/traktuner/status/issues/441#issuecomment-2390527383) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#440](https://github.com/traktuner/status/issues/440#issuecomment-2390510932) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
