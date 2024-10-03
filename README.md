@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/traktuner/status/issues/441#issuecomment-2390527383) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#441](https://github.com/traktuner/status/issues/441) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#440](https://github.com/traktuner/status/issues/440) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#440](https://github.com/traktuner/status/issues/440#issuecomment-2390510932) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#447](https://github.com/traktuner/status/issues/447#issuecomment-2390705235) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#447](https://github.com/traktuner/status/issues/447) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#446](https://github.com/traktuner/status/issues/446) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#446](https://github.com/traktuner/status/issues/446#issuecomment-2390705171) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#445](https://github.com/traktuner/status/issues/445) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
