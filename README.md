@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#451](https://github.com/traktuner/status/issues/451#issuecomment-2414675018) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#451](https://github.com/traktuner/status/issues/451) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#451](https://github.com/traktuner/status/issues/451) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#4](https://github.com/traktuner/homebrew-traktuner/pull/4) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 💪 Opened PR [#4](https://github.com/traktuner/homebrew-traktuner/pull/4) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. ❗ Opened issue [#452](https://github.com/traktuner/status/issues/452) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#451](https://github.com/traktuner/status/issues/451#issuecomment-2414675018) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#451](https://github.com/traktuner/status/issues/451) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#451](https://github.com/traktuner/status/issues/451) in [traktuner/status](https://github.com/traktuner/status)
+5. 🎉 Merged PR [#4](https://github.com/traktuner/homebrew-traktuner/pull/4) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
