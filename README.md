@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/traktuner/status/issues/453#issuecomment-2418468214) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#453](https://github.com/traktuner/status/issues/453) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#453](https://github.com/traktuner/status/issues/453) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#5](https://github.com/traktuner/homebrew-traktuner/pull/5) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 💪 Opened PR [#5](https://github.com/traktuner/homebrew-traktuner/pull/5) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. ❌ Closed PR [#2](https://github.com/traktuner/docker-crashplan-pro/pull/2) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+2. 🎉 Merged PR [#1](https://github.com/traktuner/docker-crashplan-pro/pull/1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+3. 🗣 Commented on [#453](https://github.com/traktuner/status/issues/453#issuecomment-2418468214) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#453](https://github.com/traktuner/status/issues/453) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#453](https://github.com/traktuner/status/issues/453) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
