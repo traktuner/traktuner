@@ -1,6 +1,6 @@
 ### Oh, hi 👋
 
-I'm Thomas, IT System Engineer and dad 👶♊️👶 from Austria 🇦🇹
+I'm Thomas, Senior IT Consultant and dad 👶♊️👶 from Austria 🇦🇹
 
 <!--
 **traktuner/traktuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
