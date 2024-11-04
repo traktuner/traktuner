@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#70](https://github.com/traktuner/actions/issues/70) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#69](https://github.com/traktuner/actions/issues/69) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🗣 Commented on [#458](https://github.com/traktuner/status/issues/458#issuecomment-2425651501) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#458](https://github.com/traktuner/status/issues/458) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#458](https://github.com/traktuner/status/issues/458) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#25](https://github.com/traktuner/backblaze-personal-wine-container/pull/25) in [traktuner/backblaze-personal-wine-container](https://github.com/traktuner/backblaze-personal-wine-container)
+2. 🎉 Merged PR [#3](https://github.com/traktuner/backblaze-b2-action/pull/3) in [traktuner/backblaze-b2-action](https://github.com/traktuner/backblaze-b2-action)
+3. 🎉 Merged PR [#13](https://github.com/traktuner/docker-pgupgrade-go/pull/13) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+4. 🎉 Merged PR [#2](https://github.com/traktuner/docker-wireguard/pull/2) in [traktuner/docker-wireguard](https://github.com/traktuner/docker-wireguard)
+5. 🎉 Merged PR [#5](https://github.com/traktuner/IaaS/pull/5) in [traktuner/IaaS](https://github.com/traktuner/IaaS)
 <!--END_SECTION:activity-->
 
 <div align="center">
