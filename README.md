@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/traktuner/homebrew-traktuner/pull/6) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#6](https://github.com/traktuner/homebrew-traktuner/pull/6) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🚀 Published release [v11.5.0.445-1](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.5.0.445-1) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-4. 🗣 Commented on [#459](https://github.com/traktuner/status/issues/459#issuecomment-2466457314) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#459](https://github.com/traktuner/status/issues/459) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#73](https://github.com/traktuner/actions/issues/73) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#72](https://github.com/traktuner/actions/issues/72) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#71](https://github.com/traktuner/actions/issues/71) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🎉 Merged PR [#6](https://github.com/traktuner/homebrew-traktuner/pull/6) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 💪 Opened PR [#6](https://github.com/traktuner/homebrew-traktuner/pull/6) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
