@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#74](https://github.com/traktuner/actions/issues/74) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#73](https://github.com/traktuner/actions/issues/73) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#72](https://github.com/traktuner/actions/issues/72) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#71](https://github.com/traktuner/actions/issues/71) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🎉 Merged PR [#6](https://github.com/traktuner/homebrew-traktuner/pull/6) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🎉 Merged PR [#12](https://github.com/traktuner/mediathekview-docker/pull/12) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+2. 🗣 Commented on [#12](https://github.com/traktuner/mediathekview-docker/pull/12#issuecomment-2494603537) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+3. 🔒 Closed issue [#74](https://github.com/traktuner/actions/issues/74) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#73](https://github.com/traktuner/actions/issues/73) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#72](https://github.com/traktuner/actions/issues/72) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 <div align="center">
