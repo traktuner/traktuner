@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#461](https://github.com/traktuner/status/issues/461) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#75](https://github.com/traktuner/actions/issues/75) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🎉 Merged PR [#12](https://github.com/traktuner/mediathekview-docker/pull/12) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-4. 🗣 Commented on [#12](https://github.com/traktuner/mediathekview-docker/pull/12#issuecomment-2494603537) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-5. 🔒 Closed issue [#74](https://github.com/traktuner/actions/issues/74) in [traktuner/actions](https://github.com/traktuner/actions)
+1. ❗ Opened issue [#462](https://github.com/traktuner/status/issues/462) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#461](https://github.com/traktuner/status/issues/461) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#75](https://github.com/traktuner/actions/issues/75) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🎉 Merged PR [#12](https://github.com/traktuner/mediathekview-docker/pull/12) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🗣 Commented on [#12](https://github.com/traktuner/mediathekview-docker/pull/12#issuecomment-2494603537) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 <div align="center">
