@@ -33,11 +33,11 @@ $ curl https://github.com/traktuner.gpg | gpg --import
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#494](https://github.com/traktuner/status/issues/494) in [traktuner/status](https://github.com/traktuner/status)
-2. ❗ Opened issue [#493](https://github.com/traktuner/status/issues/493) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#76](https://github.com/traktuner/actions/issues/76) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#78](https://github.com/traktuner/actions/issues/78) in [traktuner/actions](https://github.com/traktuner/actions)
-5. 🔒 Closed issue [#79](https://github.com/traktuner/actions/issues/79) in [traktuner/actions](https://github.com/traktuner/actions)
+1. ❗ Opened issue [#500](https://github.com/traktuner/status/issues/500) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#499](https://github.com/traktuner/status/issues/499) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#498](https://github.com/traktuner/status/issues/498) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#497](https://github.com/traktuner/status/issues/497) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#496](https://github.com/traktuner/status/issues/496) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
