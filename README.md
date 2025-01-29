@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/henrybear327/go-proton-api/pull/4#issuecomment-2615974176) in [henrybear327/go-proton-api](https://github.com/henrybear327/go-proton-api)
-2. 🔒 Closed issue [#80](https://github.com/traktuner/actions/issues/80) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🗣 Commented on [#500](https://github.com/traktuner/status/issues/500#issuecomment-2608850392) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#500](https://github.com/traktuner/status/issues/500) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#499](https://github.com/traktuner/status/issues/499#issuecomment-2608850347) in [traktuner/status](https://github.com/traktuner/status)
+1. 💪 Opened PR [#9](https://github.com/traktuner/homebrew-traktuner/pull/9) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 🗣 Commented on [#4](https://github.com/henrybear327/go-proton-api/pull/4#issuecomment-2615974176) in [henrybear327/go-proton-api](https://github.com/henrybear327/go-proton-api)
+3. 🔒 Closed issue [#80](https://github.com/traktuner/actions/issues/80) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🗣 Commented on [#500](https://github.com/traktuner/status/issues/500#issuecomment-2608850392) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#500](https://github.com/traktuner/status/issues/500) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
