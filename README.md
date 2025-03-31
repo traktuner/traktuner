@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3574](https://github.com/standardnotes/forum/issues/3574#issuecomment-2756813487) in [standardnotes/forum](https://github.com/standardnotes/forum)
-2. 🔒 Closed issue [#88](https://github.com/traktuner/actions/issues/88) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#87](https://github.com/traktuner/actions/issues/87) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🎉 Merged PR [#9](https://github.com/traktuner/traktuner/pull/9) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
-5. 🔒 Closed issue [#532](https://github.com/traktuner/status/issues/532) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#540](https://github.com/traktuner/status/issues/540#issuecomment-2765246187) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#540](https://github.com/traktuner/status/issues/540) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#540](https://github.com/traktuner/status/issues/540) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#3574](https://github.com/standardnotes/forum/issues/3574#issuecomment-2756813487) in [standardnotes/forum](https://github.com/standardnotes/forum)
+5. 🔒 Closed issue [#88](https://github.com/traktuner/actions/issues/88) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 <div align="center">
