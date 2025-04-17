@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#546](https://github.com/traktuner/status/issues/546) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#552](https://github.com/traktuner/status/issues/552) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#552](https://github.com/traktuner/status/issues/552#issuecomment-2786577314) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#546](https://github.com/traktuner/status/issues/546#issuecomment-2786577148) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#550](https://github.com/traktuner/status/issues/550) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#95](https://github.com/traktuner/actions/issues/95) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#91](https://github.com/traktuner/actions/issues/91) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#97](https://github.com/traktuner/actions/issues/97) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#96](https://github.com/traktuner/actions/issues/96) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#93](https://github.com/traktuner/actions/issues/93) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
 
 <div align="center">
