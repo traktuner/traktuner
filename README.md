@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#568](https://github.com/traktuner/status/issues/568) in [traktuner/status](https://github.com/traktuner/status)
-2. 🗣 Commented on [#568](https://github.com/traktuner/status/issues/568#issuecomment-2849866321) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#567](https://github.com/traktuner/status/issues/567#issuecomment-2849866286) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#567](https://github.com/traktuner/status/issues/567) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#568](https://github.com/traktuner/status/issues/568) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#226](https://github.com/Inrixia/Floatplane-Downloader/issues/226#issuecomment-2850160524) in [Inrixia/Floatplane-Downloader](https://github.com/Inrixia/Floatplane-Downloader)
+2. 🔒 Closed issue [#568](https://github.com/traktuner/status/issues/568) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#568](https://github.com/traktuner/status/issues/568#issuecomment-2849866321) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#567](https://github.com/traktuner/status/issues/567#issuecomment-2849866286) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#567](https://github.com/traktuner/status/issues/567) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
