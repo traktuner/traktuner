@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🗣 Commented on [#8512](https://github.com/rclone/rclone/issues/8512#issuecomment-2911062989) in [rclone/rclone](https://github.com/rclone/rclone)
-3. 🗣 Commented on [#597](https://github.com/traktuner/status/issues/597#issuecomment-2903172946) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#597](https://github.com/traktuner/status/issues/597) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#597](https://github.com/traktuner/status/issues/597) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 💪 Opened PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+3. 🗣 Commented on [#8512](https://github.com/rclone/rclone/issues/8512#issuecomment-2911062989) in [rclone/rclone](https://github.com/rclone/rclone)
+4. 🗣 Commented on [#597](https://github.com/traktuner/status/issues/597#issuecomment-2903172946) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#597](https://github.com/traktuner/status/issues/597) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
