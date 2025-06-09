@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/traktuner/macos-config/pull/3) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
-2. 💪 Opened PR [#3](https://github.com/traktuner/macos-config/pull/3) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
-3. 🔒 Closed issue [#103](https://github.com/traktuner/actions/issues/103) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🎉 Merged PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 💪 Opened PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🗣 Commented on [#226](https://github.com/Inrixia/Floatplane-Downloader/issues/226#issuecomment-2955297290) in [Inrixia/Floatplane-Downloader](https://github.com/Inrixia/Floatplane-Downloader)
+2. 🎉 Merged PR [#3](https://github.com/traktuner/macos-config/pull/3) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
+3. 💪 Opened PR [#3](https://github.com/traktuner/macos-config/pull/3) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
+4. 🔒 Closed issue [#103](https://github.com/traktuner/actions/issues/103) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🎉 Merged PR [#16](https://github.com/traktuner/homebrew-traktuner/pull/16) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
