@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🚀 Published release [v11.4.0.503-3](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-3) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-4. 🚀 Published release [v11.4.0.503-3](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-3) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-5. 🎉 Merged PR [#18](https://github.com/traktuner/homebrew-traktuner/pull/18) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🔒 Closed issue [#105](https://github.com/traktuner/actions/issues/105) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#104](https://github.com/traktuner/actions/issues/104) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🎉 Merged PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. 💪 Opened PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 🚀 Published release [v11.4.0.503-3](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-3) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
 <!--END_SECTION:activity-->
 
 <div align="center">
