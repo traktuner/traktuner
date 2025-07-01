@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#106](https://github.com/traktuner/actions/issues/106) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🔒 Closed issue [#105](https://github.com/traktuner/actions/issues/105) in [traktuner/actions](https://github.com/traktuner/actions)
-3. 🔒 Closed issue [#104](https://github.com/traktuner/actions/issues/104) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🎉 Merged PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 💪 Opened PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🔒 Closed issue [#107](https://github.com/traktuner/actions/issues/107) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#106](https://github.com/traktuner/actions/issues/106) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#105](https://github.com/traktuner/actions/issues/105) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#104](https://github.com/traktuner/actions/issues/104) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🎉 Merged PR [#19](https://github.com/traktuner/homebrew-traktuner/pull/19) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
