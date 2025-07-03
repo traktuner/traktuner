@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#108](https://github.com/traktuner/actions/issues/108) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🚀 Published release [v1.0.0 - First versioned release](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-3. 🚀 Published release [v1.0.0 - First versioned release](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-4. 🔒 Closed issue [#606](https://github.com/traktuner/status/issues/606) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#606](https://github.com/traktuner/status/issues/606#issuecomment-3024448156) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 💪 Opened PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+3. 🔒 Closed issue [#108](https://github.com/traktuner/actions/issues/108) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🚀 Published release [v1.0.0 - First versioned release](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🚀 Published release [v1.0.0 - First versioned release](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 <div align="center">
