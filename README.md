@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8512](https://github.com/rclone/rclone/issues/8512#issuecomment-3055550709) in [rclone/rclone](https://github.com/rclone/rclone)
-2. 🚀 Published release [v1.0.1](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-3. 🎉 Merged PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-4. 💪 Opened PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 🔒 Closed issue [#108](https://github.com/traktuner/actions/issues/108) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🗣 Commented on [#39](https://github.com/prologueapp/Prologue/issues/39#issuecomment-3061954050) in [prologueapp/Prologue](https://github.com/prologueapp/Prologue)
+2. 🗣 Commented on [#8512](https://github.com/rclone/rclone/issues/8512#issuecomment-3055550709) in [rclone/rclone](https://github.com/rclone/rclone)
+3. 🚀 Published release [v1.0.1](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.0.1) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+4. 🎉 Merged PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 💪 Opened PR [#20](https://github.com/traktuner/homebrew-traktuner/pull/20) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
