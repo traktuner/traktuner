@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/traktuner/homebrew-traktuner/pull/21) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#21](https://github.com/traktuner/homebrew-traktuner/pull/21) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🚀 Published release [v1.1.0](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.1.0) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-4. 🗣 Commented on [#39](https://github.com/prologueapp/Prologue/issues/39#issuecomment-3061954050) in [prologueapp/Prologue](https://github.com/prologueapp/Prologue)
-5. 🗣 Commented on [#8512](https://github.com/rclone/rclone/issues/8512#issuecomment-3055550709) in [rclone/rclone](https://github.com/rclone/rclone)
+1. ❗ Opened issue [#610](https://github.com/traktuner/status/issues/610) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#609](https://github.com/traktuner/status/issues/609) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#608](https://github.com/traktuner/status/issues/608) in [traktuner/status](https://github.com/traktuner/status)
+4. 🎉 Merged PR [#21](https://github.com/traktuner/homebrew-traktuner/pull/21) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 💪 Opened PR [#21](https://github.com/traktuner/homebrew-traktuner/pull/21) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
