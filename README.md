@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/traktuner/homebrew-traktuner/pull/22) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#22](https://github.com/traktuner/homebrew-traktuner/pull/22) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🗣 Commented on [#244](https://github.com/Inrixia/Floatplane-Downloader/pull/244#issuecomment-3124182749) in [Inrixia/Floatplane-Downloader](https://github.com/Inrixia/Floatplane-Downloader)
-4. 🔒 Closed issue [#611](https://github.com/traktuner/status/issues/611) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#608](https://github.com/traktuner/status/issues/608) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#612](https://github.com/traktuner/status/issues/612#issuecomment-3142184440) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#612](https://github.com/traktuner/status/issues/612) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#612](https://github.com/traktuner/status/issues/612) in [traktuner/status](https://github.com/traktuner/status)
+4. 🎉 Merged PR [#22](https://github.com/traktuner/homebrew-traktuner/pull/22) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 💪 Opened PR [#22](https://github.com/traktuner/homebrew-traktuner/pull/22) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
 
 <div align="center">
