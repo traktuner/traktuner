@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#658](https://github.com/pydio/cells/issues/658#issuecomment-3159598312) in [pydio/cells](https://github.com/pydio/cells)
-2. 🔒 Closed issue [#658](https://github.com/pydio/cells/issues/658) in [pydio/cells](https://github.com/pydio/cells)
-3. 🔒 Closed issue [#109](https://github.com/traktuner/actions/issues/109) in [traktuner/actions](https://github.com/traktuner/actions)
-4. 🔒 Closed issue [#8609](https://github.com/dependabot/dependabot-core/issues/8609) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-5. ❗ Opened issue [#658](https://github.com/pydio/cells/issues/658) in [pydio/cells](https://github.com/pydio/cells)
+1. ❗ Opened issue [#622](https://github.com/traktuner/status/issues/622) in [traktuner/status](https://github.com/traktuner/status)
+2. ❗ Opened issue [#621](https://github.com/traktuner/status/issues/621) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#620](https://github.com/traktuner/status/issues/620) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#619](https://github.com/traktuner/status/issues/619) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#618](https://github.com/traktuner/status/issues/618) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
 
 <div align="center">
