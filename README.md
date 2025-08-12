@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/traktuner/status/issues/622#issuecomment-3172426340) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#622](https://github.com/traktuner/status/issues/622) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#621](https://github.com/traktuner/status/issues/621#issuecomment-3172426302) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#621](https://github.com/traktuner/status/issues/621) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#620](https://github.com/traktuner/status/issues/620#issuecomment-3172426266) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#7](https://github.com/traktuner/IaaS/pull/7) in [traktuner/IaaS](https://github.com/traktuner/IaaS)
+2. 🎉 Merged PR [#15](https://github.com/traktuner/docker-pgupgrade-go/pull/15) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+3. 🎉 Merged PR [#110](https://github.com/traktuner/actions/pull/110) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🎉 Merged PR [#10](https://github.com/traktuner/traktuner/pull/10) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
+5. 🎉 Merged PR [#14](https://github.com/traktuner/mediathekview-docker/pull/14) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 <div align="center">
