@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
-2. 🚀 Published release [v1.2](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.2) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-3. 🎉 Merged PR [#7](https://github.com/traktuner/IaaS/pull/7) in [traktuner/IaaS](https://github.com/traktuner/IaaS)
-4. 🎉 Merged PR [#15](https://github.com/traktuner/docker-pgupgrade-go/pull/15) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-5. 🎉 Merged PR [#110](https://github.com/traktuner/actions/pull/110) in [traktuner/actions](https://github.com/traktuner/actions)
+1. 🗣 Commented on [#623](https://github.com/traktuner/status/issues/623#issuecomment-3180815708) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
+4. 🚀 Published release [v1.2](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.2) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+5. 🎉 Merged PR [#7](https://github.com/traktuner/IaaS/pull/7) in [traktuner/IaaS](https://github.com/traktuner/IaaS)
 <!--END_SECTION:activity-->
 
 <div align="center">
