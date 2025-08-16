@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/traktuner/status/issues/623#issuecomment-3180815708) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
-4. 🚀 Published release [v1.2](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.2) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
-5. 🎉 Merged PR [#7](https://github.com/traktuner/IaaS/pull/7) in [traktuner/IaaS](https://github.com/traktuner/IaaS)
+1. 💪 Opened PR [#24](https://github.com/traktuner/homebrew-traktuner/pull/24) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 🗣 Commented on [#623](https://github.com/traktuner/status/issues/623#issuecomment-3180815708) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#623](https://github.com/traktuner/status/issues/623) in [traktuner/status](https://github.com/traktuner/status)
+5. 🚀 Published release [v1.2](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.2) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
 <!--END_SECTION:activity-->
 
 <div align="center">
