@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/traktuner/traktuner/pull/11) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
-2. 🎉 Merged PR [#26](https://github.com/traktuner/homebrew-traktuner/pull/26) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 💪 Opened PR [#26](https://github.com/traktuner/homebrew-traktuner/pull/26) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-4. ❗ Opened issue [#20](https://github.com/opencloud-eu/ios/issues/20) in [opencloud-eu/ios](https://github.com/opencloud-eu/ios)
-5. 🗣 Commented on [#628](https://github.com/traktuner/status/issues/628#issuecomment-3238975881) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#19295](https://github.com/darktable-org/darktable/issues/19295) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
+2. 🎉 Merged PR [#11](https://github.com/traktuner/traktuner/pull/11) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
+3. 🎉 Merged PR [#26](https://github.com/traktuner/homebrew-traktuner/pull/26) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. 💪 Opened PR [#26](https://github.com/traktuner/homebrew-traktuner/pull/26) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. ❗ Opened issue [#20](https://github.com/opencloud-eu/ios/issues/20) in [opencloud-eu/ios](https://github.com/opencloud-eu/ios)
 <!--END_SECTION:activity-->
