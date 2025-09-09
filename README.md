@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/traktuner/homebrew-traktuner/pull/27) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🎉 Merged PR [#17](https://github.com/traktuner/docker-pgupgrade-go/pull/17) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-3. 🎉 Merged PR [#16](https://github.com/traktuner/docker-pgupgrade-go/pull/16) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-4. 🔒 Closed issue [#19295](https://github.com/darktable-org/darktable/issues/19295) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
-5. 🎉 Merged PR [#11](https://github.com/traktuner/traktuner/pull/11) in [traktuner/traktuner](https://github.com/traktuner/traktuner)
+1. 💪 Opened PR [#28](https://github.com/traktuner/homebrew-traktuner/pull/28) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 💪 Opened PR [#27](https://github.com/traktuner/homebrew-traktuner/pull/27) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+3. 🎉 Merged PR [#17](https://github.com/traktuner/docker-pgupgrade-go/pull/17) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+4. 🎉 Merged PR [#16](https://github.com/traktuner/docker-pgupgrade-go/pull/16) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+5. 🔒 Closed issue [#19295](https://github.com/darktable-org/darktable/issues/19295) in [darktable-org/darktable](https://github.com/darktable-org/darktable)
 <!--END_SECTION:activity-->
