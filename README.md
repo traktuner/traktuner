@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/traktuner/homebrew-traktuner/pull/28) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 💪 Opened PR [#28](https://github.com/traktuner/homebrew-traktuner/pull/28) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 💪 Opened PR [#27](https://github.com/traktuner/homebrew-traktuner/pull/27) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-4. 🎉 Merged PR [#17](https://github.com/traktuner/docker-pgupgrade-go/pull/17) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
-5. 🎉 Merged PR [#16](https://github.com/traktuner/docker-pgupgrade-go/pull/16) in [traktuner/docker-pgupgrade-go](https://github.com/traktuner/docker-pgupgrade-go)
+1. 🔒 Closed issue [#116](https://github.com/traktuner/actions/issues/116) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#115](https://github.com/traktuner/actions/issues/115) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#113](https://github.com/traktuner/actions/issues/113) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🎉 Merged PR [#114](https://github.com/traktuner/actions/pull/114) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🎉 Merged PR [#28](https://github.com/traktuner/homebrew-traktuner/pull/28) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
