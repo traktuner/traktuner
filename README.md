@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#909](https://github.com/opencloud-eu/opencloud/issues/909#issuecomment-3338573528) in [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
-2. 🔒 Closed issue [#638](https://github.com/traktuner/status/issues/638) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#638](https://github.com/traktuner/status/issues/638#issuecomment-3336735166) in [traktuner/status](https://github.com/traktuner/status)
-4.  Labeled issue [#638](https://github.com/traktuner/status/issues/638) in [traktuner/status](https://github.com/traktuner/status)
-5.  Labeled issue [#638](https://github.com/traktuner/status/issues/638) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#4](https://github.com/traktuner/macos-config/pull/4) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
+2. 🗣 Commented on [#909](https://github.com/opencloud-eu/opencloud/issues/909#issuecomment-3334597873) in [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
+3. 🗣 Commented on [#909](https://github.com/opencloud-eu/opencloud/issues/909#issuecomment-3333902280) in [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
+4. 🗣 Commented on [#636](https://github.com/traktuner/status/issues/636#issuecomment-3332020926) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#636](https://github.com/traktuner/status/issues/636) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
