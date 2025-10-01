@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#639](https://github.com/traktuner/status/issues/639#issuecomment-3353823471) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#639](https://github.com/traktuner/status/issues/639) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#639](https://github.com/traktuner/status/issues/639) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#4](https://github.com/traktuner/macos-config/pull/4) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
-5. 🗣 Commented on [#909](https://github.com/opencloud-eu/opencloud/issues/909#issuecomment-3334597873) in [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
+1. ❗ Opened issue [#640](https://github.com/traktuner/status/issues/640) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#639](https://github.com/traktuner/status/issues/639#issuecomment-3353823471) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#639](https://github.com/traktuner/status/issues/639) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#639](https://github.com/traktuner/status/issues/639) in [traktuner/status](https://github.com/traktuner/status)
+5. 🎉 Merged PR [#4](https://github.com/traktuner/macos-config/pull/4) in [traktuner/macos-config](https://github.com/traktuner/macos-config)
 <!--END_SECTION:activity-->
