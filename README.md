@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#117](https://github.com/traktuner/actions/issues/117) in [traktuner/actions](https://github.com/traktuner/actions)
-2. 🗣 Commented on [#640](https://github.com/traktuner/status/issues/640#issuecomment-3353985862) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#640](https://github.com/traktuner/status/issues/640) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#640](https://github.com/traktuner/status/issues/640) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#639](https://github.com/traktuner/status/issues/639#issuecomment-3353823471) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#246](https://github.com/opencloud-eu/desktop/issues/246#issuecomment-3364151267) in [opencloud-eu/desktop](https://github.com/opencloud-eu/desktop)
+2. 🔒 Closed issue [#117](https://github.com/traktuner/actions/issues/117) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🗣 Commented on [#640](https://github.com/traktuner/status/issues/640#issuecomment-3353985862) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#640](https://github.com/traktuner/status/issues/640) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#640](https://github.com/traktuner/status/issues/640) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
