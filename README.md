@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#647](https://github.com/traktuner/status/issues/647) in [traktuner/status](https://github.com/traktuner/status)
-2. ❗ Opened issue [#646](https://github.com/traktuner/status/issues/646) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#645](https://github.com/traktuner/status/issues/645) in [traktuner/status](https://github.com/traktuner/status)
-4. 🎉 Merged PR [#30](https://github.com/traktuner/homebrew-traktuner/pull/30) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 💪 Opened PR [#30](https://github.com/traktuner/homebrew-traktuner/pull/30) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🗣 Commented on [#647](https://github.com/traktuner/status/issues/647#issuecomment-3400610440) in [traktuner/status](https://github.com/traktuner/status)
+2. 🔒 Closed issue [#647](https://github.com/traktuner/status/issues/647) in [traktuner/status](https://github.com/traktuner/status)
+3. 🗣 Commented on [#646](https://github.com/traktuner/status/issues/646#issuecomment-3400609972) in [traktuner/status](https://github.com/traktuner/status)
+4. 🔒 Closed issue [#646](https://github.com/traktuner/status/issues/646) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#645](https://github.com/traktuner/status/issues/645#issuecomment-3400609247) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
