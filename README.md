@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#658](https://github.com/traktuner/status/issues/658) in [traktuner/status](https://github.com/traktuner/status)
-2. 🗣 Commented on [#658](https://github.com/traktuner/status/issues/658#issuecomment-3471466708) in [traktuner/status](https://github.com/traktuner/status)
-3.  Labeled issue [#658](https://github.com/traktuner/status/issues/658) in [traktuner/status](https://github.com/traktuner/status)
-4.  Labeled issue [#658](https://github.com/traktuner/status/issues/658) in [traktuner/status](https://github.com/traktuner/status)
-5. ❗ Opened issue [#658](https://github.com/traktuner/status/issues/658) in [traktuner/status](https://github.com/traktuner/status)
+1.  Assigned issue [#660](https://github.com/traktuner/status/issues/660) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#660](https://github.com/traktuner/status/issues/660) in [traktuner/status](https://github.com/traktuner/status)
+3.  Labeled issue [#660](https://github.com/traktuner/status/issues/660) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#660](https://github.com/traktuner/status/issues/660) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#658](https://github.com/traktuner/status/issues/658) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
