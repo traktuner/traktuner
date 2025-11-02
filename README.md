@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🔒 Closed issue [#661](https://github.com/traktuner/status/issues/661) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#661](https://github.com/traktuner/status/issues/661#issuecomment-3472697559) in [traktuner/status](https://github.com/traktuner/status)
-4.  Labeled issue [#661](https://github.com/traktuner/status/issues/661) in [traktuner/status](https://github.com/traktuner/status)
-5.  Labeled issue [#661](https://github.com/traktuner/status/issues/661) in [traktuner/status](https://github.com/traktuner/status)
+1.  Labeled issue [#666](https://github.com/traktuner/status/issues/666) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#666](https://github.com/traktuner/status/issues/666) in [traktuner/status](https://github.com/traktuner/status)
+3.  Assigned issue [#666](https://github.com/traktuner/status/issues/666) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#666](https://github.com/traktuner/status/issues/666) in [traktuner/status](https://github.com/traktuner/status)
+5.  Labeled issue [#665](https://github.com/traktuner/status/issues/665) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
