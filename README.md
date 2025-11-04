@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3486341039) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❗ Opened issue [#26](https://github.com/opencloud-eu/ios/issues/26) in [opencloud-eu/ios](https://github.com/opencloud-eu/ios)
-3. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3484054477) in [immich-app/immich](https://github.com/immich-app/immich)
-4. ❗ Opened issue [#23558](https://github.com/immich-app/immich/issues/23558) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🔒 Closed issue [#666](https://github.com/traktuner/status/issues/666) in [traktuner/status](https://github.com/traktuner/status)
+1. 💪 Opened PR [#32](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3486341039) in [immich-app/immich](https://github.com/immich-app/immich)
+3. ❗ Opened issue [#26](https://github.com/opencloud-eu/ios/issues/26) in [opencloud-eu/ios](https://github.com/opencloud-eu/ios)
+4. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3484054477) in [immich-app/immich](https://github.com/immich-app/immich)
+5. ❗ Opened issue [#23558](https://github.com/immich-app/immich/issues/23558) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
