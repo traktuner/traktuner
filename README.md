@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3492603760) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 💪 Opened PR [#32](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3486341039) in [immich-app/immich](https://github.com/immich-app/immich)
-4. ❗ Opened issue [#26](https://github.com/opencloud-eu/ios/issues/26) in [opencloud-eu/ios](https://github.com/opencloud-eu/ios)
-5. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3484054477) in [immich-app/immich](https://github.com/immich-app/immich)
+1.  Labeled issue [#686](https://github.com/traktuner/status/issues/686) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#686](https://github.com/traktuner/status/issues/686) in [traktuner/status](https://github.com/traktuner/status)
+3.  Assigned issue [#686](https://github.com/traktuner/status/issues/686) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#686](https://github.com/traktuner/status/issues/686) in [traktuner/status](https://github.com/traktuner/status)
+5.  Assigned issue [#685](https://github.com/traktuner/status/issues/685) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
