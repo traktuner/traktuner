@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3497587468) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🔒 Closed issue [#684](https://github.com/traktuner/status/issues/684) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#684](https://github.com/traktuner/status/issues/684#issuecomment-3496158019) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#686](https://github.com/traktuner/status/issues/686) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#686](https://github.com/traktuner/status/issues/686#issuecomment-3496102454) in [traktuner/status](https://github.com/traktuner/status)
+1.  Assigned issue [#687](https://github.com/traktuner/status/issues/687) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#687](https://github.com/traktuner/status/issues/687) in [traktuner/status](https://github.com/traktuner/status)
+3.  Labeled issue [#687](https://github.com/traktuner/status/issues/687) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#687](https://github.com/traktuner/status/issues/687) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#23558](https://github.com/immich-app/immich/issues/23558#issuecomment-3497587468) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
