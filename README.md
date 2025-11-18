@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1.  Assigned issue [#707](https://github.com/traktuner/status/issues/707) in [traktuner/status](https://github.com/traktuner/status)
-2.  Labeled issue [#707](https://github.com/traktuner/status/issues/707) in [traktuner/status](https://github.com/traktuner/status)
-3.  Labeled issue [#707](https://github.com/traktuner/status/issues/707) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#707](https://github.com/traktuner/status/issues/707) in [traktuner/status](https://github.com/traktuner/status)
-5.  Labeled issue [#706](https://github.com/traktuner/status/issues/706) in [traktuner/status](https://github.com/traktuner/status)
+1.  Labeled issue [#712](https://github.com/traktuner/status/issues/712) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#712](https://github.com/traktuner/status/issues/712) in [traktuner/status](https://github.com/traktuner/status)
+3.  Assigned issue [#712](https://github.com/traktuner/status/issues/712) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#712](https://github.com/traktuner/status/issues/712) in [traktuner/status](https://github.com/traktuner/status)
+5.  Assigned issue [#711](https://github.com/traktuner/status/issues/711) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
