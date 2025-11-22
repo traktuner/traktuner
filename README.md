@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🔒 Closed issue [#722](https://github.com/traktuner/status/issues/722) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#722](https://github.com/traktuner/status/issues/722#issuecomment-3555169350) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#721](https://github.com/traktuner/status/issues/721#issuecomment-3555168449) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#721](https://github.com/traktuner/status/issues/721) in [traktuner/status](https://github.com/traktuner/status)
+1. 🚀 Published release [v11.4.0.503-4](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-4) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+2. 🚀 Published release [v1.3](https://github.com/traktuner/mediathekview-docker/releases/tag/v1.3) in [traktuner/mediathekview-docker](https://github.com/traktuner/mediathekview-docker)
+3. 💪 Opened PR [#33](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. 🔒 Closed issue [#722](https://github.com/traktuner/status/issues/722) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#722](https://github.com/traktuner/status/issues/722#issuecomment-3555169350) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
