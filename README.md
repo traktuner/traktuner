@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](undefined) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🚀 Published release [v11.4.0.503-5](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-5) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-3. 🔒 Closed issue [#736](https://github.com/traktuner/status/issues/736) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#736](https://github.com/traktuner/status/issues/736#issuecomment-3611125847) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#735](https://github.com/traktuner/status/issues/735) in [traktuner/status](https://github.com/traktuner/status)
+1.  Assigned issue [#742](https://github.com/traktuner/status/issues/742) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#742](https://github.com/traktuner/status/issues/742) in [traktuner/status](https://github.com/traktuner/status)
+3.  Labeled issue [#742](https://github.com/traktuner/status/issues/742) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#742](https://github.com/traktuner/status/issues/742) in [traktuner/status](https://github.com/traktuner/status)
+5.  Assigned issue [#741](https://github.com/traktuner/status/issues/741) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
