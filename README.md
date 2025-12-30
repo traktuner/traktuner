@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5100](https://github.com/mampfes/hacs_waste_collection_schedule/issues/5100#issuecomment-3697187869) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-2. 🔒 Closed issue [#783](https://github.com/traktuner/status/issues/783) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#783](https://github.com/traktuner/status/issues/783#issuecomment-3681653481) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#782](https://github.com/traktuner/status/issues/782) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#782](https://github.com/traktuner/status/issues/782#issuecomment-3681653314) in [traktuner/status](https://github.com/traktuner/status)
+1.  Assigned issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+2.  Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+3.  Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#5100](https://github.com/mampfes/hacs_waste_collection_schedule/issues/5100#issuecomment-3697187869) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 <!--END_SECTION:activity-->
