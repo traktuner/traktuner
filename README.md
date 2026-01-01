@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
 2. 🗣 Commented on [#797](https://github.com/traktuner/status/issues/797#issuecomment-3700188838) in [traktuner/status](https://github.com/traktuner/status)
-3.  Assigned issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
-4.  Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
-5.  Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Assigned issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
+5. ℹ️ Labeled issue [#797](https://github.com/traktuner/status/issues/797) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
