@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Finsys/dockhand/issues/8#issuecomment-3748620009) in [Finsys/dockhand](https://github.com/Finsys/dockhand)
-2. 🔒 Closed issue [#813](https://github.com/traktuner/status/issues/813) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#813](https://github.com/traktuner/status/issues/813#issuecomment-3748554461) in [traktuner/status](https://github.com/traktuner/status)
-4. ℹ️ Labeled issue [#813](https://github.com/traktuner/status/issues/813) in [traktuner/status](https://github.com/traktuner/status)
+1. 🗣 Commented on [#8](https://github.com/Finsys/dockhand/issues/8#issuecomment-3748801721) in [Finsys/dockhand](https://github.com/Finsys/dockhand)
+2. 🗣 Commented on [#8](https://github.com/Finsys/dockhand/issues/8#issuecomment-3748620009) in [Finsys/dockhand](https://github.com/Finsys/dockhand)
+3. 🔒 Closed issue [#813](https://github.com/traktuner/status/issues/813) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#813](https://github.com/traktuner/status/issues/813#issuecomment-3748554461) in [traktuner/status](https://github.com/traktuner/status)
 5. ℹ️ Labeled issue [#813](https://github.com/traktuner/status/issues/813) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
