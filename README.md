@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#816](https://github.com/traktuner/status/issues/816) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#816](https://github.com/traktuner/status/issues/816) in [traktuner/status](https://github.com/traktuner/status)
-3. ℹ️ Labeled issue [#816](https://github.com/traktuner/status/issues/816) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#816](https://github.com/traktuner/status/issues/816) in [traktuner/status](https://github.com/traktuner/status)
-5. ℹ️ Assigned issue [#815](https://github.com/traktuner/status/issues/815) in [traktuner/status](https://github.com/traktuner/status)
+1. ℹ️ Labeled issue [#818](https://github.com/traktuner/status/issues/818) in [traktuner/status](https://github.com/traktuner/status)
+2. ℹ️ Labeled issue [#818](https://github.com/traktuner/status/issues/818) in [traktuner/status](https://github.com/traktuner/status)
+3. ❗ Opened issue [#818](https://github.com/traktuner/status/issues/818) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Assigned issue [#818](https://github.com/traktuner/status/issues/818) in [traktuner/status](https://github.com/traktuner/status)
+5. 🗣 Commented on [#8](https://github.com/Finsys/dockhand/issues/8#issuecomment-3752923619) in [Finsys/dockhand](https://github.com/Finsys/dockhand)
 <!--END_SECTION:activity-->
