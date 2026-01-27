@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/traktuner/homebrew-traktuner/pull/35) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🔒 Closed issue [#832](https://github.com/traktuner/status/issues/832) in [traktuner/status](https://github.com/traktuner/status)
 2. 🗣 Commented on [#832](https://github.com/traktuner/status/issues/832#issuecomment-3805453471) in [traktuner/status](https://github.com/traktuner/status)
 3. ℹ️ Labeled issue [#832](https://github.com/traktuner/status/issues/832) in [traktuner/status](https://github.com/traktuner/status)
 4. ℹ️ Labeled issue [#832](https://github.com/traktuner/status/issues/832) in [traktuner/status](https://github.com/traktuner/status)
