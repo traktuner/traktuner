@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/traktuner/homebrew-traktuner/pull/38) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-2. 🎉 Merged PR [#35](https://github.com/traktuner/homebrew-traktuner/pull/35) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-3. 🎉 Merged PR [#37](https://github.com/traktuner/homebrew-traktuner/pull/37) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-4. 💪 Opened PR [#37](https://github.com/traktuner/homebrew-traktuner/pull/37) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
-5. 🔒 Closed issue [#845](https://github.com/traktuner/status/issues/845) in [traktuner/status](https://github.com/traktuner/status)
+1. 🎉 Merged PR [#38](https://github.com/traktuner/homebrew-traktuner/pull/38) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+2. 💪 Opened PR [#38](https://github.com/traktuner/homebrew-traktuner/pull/38) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+3. 🎉 Merged PR [#35](https://github.com/traktuner/homebrew-traktuner/pull/35) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. 🎉 Merged PR [#37](https://github.com/traktuner/homebrew-traktuner/pull/37) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+5. 💪 Opened PR [#37](https://github.com/traktuner/homebrew-traktuner/pull/37) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
 <!--END_SECTION:activity-->
