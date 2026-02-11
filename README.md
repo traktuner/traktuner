@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
-3. ℹ️ Labeled issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
-5. 🎉 Merged PR [#38](https://github.com/traktuner/homebrew-traktuner/pull/38) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+1. 🔒 Closed issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#851](https://github.com/traktuner/status/issues/851#issuecomment-3885411839) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Assigned issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Labeled issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
+5. ℹ️ Labeled issue [#851](https://github.com/traktuner/status/issues/851) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
