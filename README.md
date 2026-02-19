@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v11.4.0.503-7](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-7) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
-2. 🗣 Commented on [#860](https://github.com/traktuner/status/issues/860#issuecomment-3918911228) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#860](https://github.com/traktuner/status/issues/860) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#859](https://github.com/traktuner/status/issues/859) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#859](https://github.com/traktuner/status/issues/859#issuecomment-3918910556) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#865](https://github.com/traktuner/status/issues/865) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#865](https://github.com/traktuner/status/issues/865#issuecomment-3927891708) in [traktuner/status](https://github.com/traktuner/status)
+3. 🔒 Closed issue [#864](https://github.com/traktuner/status/issues/864) in [traktuner/status](https://github.com/traktuner/status)
+4. 🗣 Commented on [#864](https://github.com/traktuner/status/issues/864#issuecomment-3927890986) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#863](https://github.com/traktuner/status/issues/863) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
