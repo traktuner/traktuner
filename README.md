@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#883](https://github.com/traktuner/status/issues/883) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#883](https://github.com/traktuner/status/issues/883) in [traktuner/status](https://github.com/traktuner/status)
-3. ℹ️ Labeled issue [#883](https://github.com/traktuner/status/issues/883) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#883](https://github.com/traktuner/status/issues/883) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#20560](https://github.com/goauthentik/authentik/issues/20560#issuecomment-3957142294) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+1. ℹ️ Assigned issue [#884](https://github.com/traktuner/status/issues/884) in [traktuner/status](https://github.com/traktuner/status)
+2. ℹ️ Labeled issue [#884](https://github.com/traktuner/status/issues/884) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Labeled issue [#884](https://github.com/traktuner/status/issues/884) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#884](https://github.com/traktuner/status/issues/884) in [traktuner/status](https://github.com/traktuner/status)
+5. 🔒 Closed issue [#883](https://github.com/traktuner/status/issues/883) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
