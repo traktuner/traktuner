@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0 - Stack Manager](https://github.com/traktuner/stack-manager/releases/tag/v0.1.0) in [traktuner/stack-manager](https://github.com/traktuner/stack-manager)
-2. 🔒 Closed issue [#898](https://github.com/traktuner/status/issues/898) in [traktuner/status](https://github.com/traktuner/status)
-3. 🗣 Commented on [#898](https://github.com/traktuner/status/issues/898#issuecomment-3977053576) in [traktuner/status](https://github.com/traktuner/status)
-4. 🗣 Commented on [#897](https://github.com/traktuner/status/issues/897#issuecomment-3977053416) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#897](https://github.com/traktuner/status/issues/897) in [traktuner/status](https://github.com/traktuner/status)
+1. ℹ️ Assigned issue [#900](https://github.com/traktuner/status/issues/900) in [traktuner/status](https://github.com/traktuner/status)
+2. ℹ️ Labeled issue [#900](https://github.com/traktuner/status/issues/900) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Labeled issue [#900](https://github.com/traktuner/status/issues/900) in [traktuner/status](https://github.com/traktuner/status)
+4. ❗ Opened issue [#900](https://github.com/traktuner/status/issues/900) in [traktuner/status](https://github.com/traktuner/status)
+5. 🚀 Published release [v0.1.0 - Stack Manager](https://github.com/traktuner/stack-manager/releases/tag/v0.1.0) in [traktuner/stack-manager](https://github.com/traktuner/stack-manager)
 <!--END_SECTION:activity-->
