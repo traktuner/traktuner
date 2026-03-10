@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
-3. ❗ Opened issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#926](https://github.com/traktuner/status/issues/926#issuecomment-4030296972) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#927](https://github.com/traktuner/status/issues/927#issuecomment-4033809359) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Labeled issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Labeled issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#927](https://github.com/traktuner/status/issues/927) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
