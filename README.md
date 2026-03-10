@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
-3. ℹ️ Assigned issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
-5. 🗣 Commented on [#331](https://github.com/cryptomator/ios/issues/331#issuecomment-4029816663) in [cryptomator/ios](https://github.com/cryptomator/ios)
+1. 🔒 Closed issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
+2. 🗣 Commented on [#926](https://github.com/traktuner/status/issues/926#issuecomment-4030296972) in [traktuner/status](https://github.com/traktuner/status)
+3. ℹ️ Labeled issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Labeled issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
+5. ℹ️ Assigned issue [#926](https://github.com/traktuner/status/issues/926) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
