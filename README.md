@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
+2. ℹ️ Assigned issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
 3. ℹ️ Labeled issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
-5. 🎉 Merged PR [#39](https://github.com/traktuner/homebrew-traktuner/pull/39) in [traktuner/homebrew-traktuner](https://github.com/traktuner/homebrew-traktuner)
+4. ℹ️ Labeled issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
+5. ❗ Opened issue [#1007](https://github.com/traktuner/status/issues/1007) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
