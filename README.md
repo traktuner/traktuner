@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1012](https://github.com/traktuner/status/issues/1012) in [traktuner/status](https://github.com/traktuner/status)
-2. 🔒 Closed issue [#1011](https://github.com/traktuner/status/issues/1011) in [traktuner/status](https://github.com/traktuner/status)
-3. 🔒 Closed issue [#1010](https://github.com/traktuner/status/issues/1010) in [traktuner/status](https://github.com/traktuner/status)
-4. 🔒 Closed issue [#1009](https://github.com/traktuner/status/issues/1009) in [traktuner/status](https://github.com/traktuner/status)
-5. 🔒 Closed issue [#1008](https://github.com/traktuner/status/issues/1008) in [traktuner/status](https://github.com/traktuner/status)
+1. 🔒 Closed issue [#126](https://github.com/traktuner/actions/issues/126) in [traktuner/actions](https://github.com/traktuner/actions)
+2. 🔒 Closed issue [#124](https://github.com/traktuner/actions/issues/124) in [traktuner/actions](https://github.com/traktuner/actions)
+3. 🔒 Closed issue [#125](https://github.com/traktuner/actions/issues/125) in [traktuner/actions](https://github.com/traktuner/actions)
+4. 🔒 Closed issue [#129](https://github.com/traktuner/actions/issues/129) in [traktuner/actions](https://github.com/traktuner/actions)
+5. 🔒 Closed issue [#127](https://github.com/traktuner/actions/issues/127) in [traktuner/actions](https://github.com/traktuner/actions)
 <!--END_SECTION:activity-->
