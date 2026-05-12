@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
-2. ℹ️ Labeled issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
-3. ℹ️ Labeled issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
-4. ❗ Opened issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
-5. ℹ️ Labeled issue [#1026](https://github.com/traktuner/status/issues/1026) in [traktuner/status](https://github.com/traktuner/status)
+1. ❌ Closed PR [#7](https://github.com/traktuner/docker-crashplan-pro/pull/7) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+2. 🚀 Published release [v11.4.0.503-8](https://github.com/traktuner/docker-crashplan-pro/releases/tag/v11.4.0.503-8) in [traktuner/docker-crashplan-pro](https://github.com/traktuner/docker-crashplan-pro)
+3. ℹ️ Assigned issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
+4. ℹ️ Labeled issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
+5. ℹ️ Labeled issue [#1027](https://github.com/traktuner/status/issues/1027) in [traktuner/status](https://github.com/traktuner/status)
 <!--END_SECTION:activity-->
