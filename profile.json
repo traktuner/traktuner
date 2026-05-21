@@ -1,0 +1,19 @@
+{
+  "name": "Thomas",
+  "headline": "Senior IT Consultant based in Austria.",
+  "summary": "I work on reliable infrastructure automation, containerized services, macOS tooling, and small utilities that make operations less annoying.",
+  "focus": [
+    "Ansible-driven infrastructure",
+    "Docker and self-hosted service operations",
+    "macOS developer/workstation automation",
+    "Pragmatic automation around real-world systems"
+  ],
+  "working_style": [
+    "Boring automation over manual rituals",
+    "Readable operations over clever abstractions",
+    "Small tools that solve actual recurring problems",
+    "Security-conscious defaults"
+  ],
+  "note": "Most of my active work lives in private repositories. The public repositories here are a mix of older experiments, small utilities, and selected maintained projects.",
+  "public_repo_limit": 5
+}
